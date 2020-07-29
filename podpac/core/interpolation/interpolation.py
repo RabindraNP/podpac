@@ -21,8 +21,8 @@ INTERPOLATORS_DICT = {}
 """dict : Dictionary of a string interpolator name and associated interpolator class"""
 
 INTERPOLATION_METHODS = [
-    "nearest_preview",
     "nearest",
+    "nearest_preview",
     "bilinear",
     "cubic",
     "cubic_spline",
